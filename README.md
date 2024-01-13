@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="560" height="160" src="assets/cphbanner.png" />
+  <img width="840" height="160" src="assets/cphbanner.png" />
 </p>
 <h3 align="center">
     <b> CPH200B Cornerstone Course Projects </b>
