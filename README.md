@@ -11,7 +11,7 @@ This repository hosts the class projects for CPH 200B offered at UC Berkeley and
 
 ## 📚 Class Projects
 
-#### [Project 1: Survival Analysis and Prediction]([Project%201/data_access.md](https://bcourses.berkeley.edu/courses/1531248/assignments/8680176))
+#### [Project 1: Survival Analysis and Prediction](https://bcourses.berkeley.edu/courses/1531248/assignments/8680176)
 
 <details>
   <summary><b>Explore Content</b> (click to expand)</summary>
