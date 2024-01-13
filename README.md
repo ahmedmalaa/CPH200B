@@ -9,3 +9,21 @@
 
 This repository hosts the class projects for CPH 200B offered at UC Berkeley and UCSF in Spring 2024. 
 
+## 📚 Class Projects
+
+#### [Project 1: Survival Analysis and Prediction.ipynb]([Project%201/data_access.md](https://github.com/ahmedmalaa/CPH200B/blob/main/Project%201/Project%201%20-%20Survival%20Analysis%20and%20Prediction.ipynb))
+
+<details>
+  <summary><b>Explore Content</b> (click to expand)</summary>
+  &nbsp;
+  <ul>
+    <li><a href="docs/data_access.md#Datasets">Overview of the Supported Echocardiography Datasets</a></li>
+    &nbsp;
+    <li><a href="docs/data_access.md#Instructions-for-dataset-access">Instructions for Dataset Access</a></li> 
+    &nbsp;
+    <li><a href="docs/data_access.md#data-loaders-and-processing-tools-demo-notebook">Data Loaders and Processing Tools</a></li> 
+    &nbsp;
+    <li><a href="https://github.com/ahmedmalaa/ETAB/blob/main/notebooks/Demo%201%20-%20ETAB%20Data%20Loading%20and%20Processing%20Tools.ipynb">Demo Notebook</a></li>
+  </ul>
+
+</details>
