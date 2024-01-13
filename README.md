@@ -11,19 +11,17 @@ This repository hosts the class projects for CPH 200B offered at UC Berkeley and
 
 ## 📚 Class Projects
 
-#### [Project 1: Survival Analysis and Prediction](https://bcourses.berkeley.edu/courses/1531248/assignments/8680176)
+#### [Project 1: Survival Analysis and Prediction (30 points)](https://bcourses.berkeley.edu/courses/1531248/assignments/8680176)
 
 <details>
-  <summary><b>Explore Content</b> (click to expand)</summary>
+  <summary><b>Tasks and Grading</b> (click to expand)</summary>
   &nbsp;
   <ul>
-    <li><a href="docs/data_access.md#Datasets">Overview of the Supported Echocardiography Datasets</a></li>
+    <li>Task 1.1: Nonparametric Survival Analysis in Heart Failure [7 pts]</a></li>
     &nbsp;
-    <li><a href="docs/data_access.md#Instructions-for-dataset-access">Instructions for Dataset Access</a></li> 
+    <li>Task 1.2: Survival Regression using the Cox PH Model [8 pts]</li> 
     &nbsp;
-    <li><a href="docs/data_access.md#data-loaders-and-processing-tools-demo-notebook">Data Loaders and Processing Tools</a></li> 
-    &nbsp;
-    <li><a href="https://github.com/ahmedmalaa/ETAB/blob/main/notebooks/Demo%201%20-%20ETAB%20Data%20Loading%20and%20Processing%20Tools.ipynb">Demo Notebook</a></li>
+    <li>Task 1.3: Developing an ML-based Survival Prediction Model [15 pts]</li> 
   </ul>
 
 </details>
