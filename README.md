@@ -25,3 +25,18 @@ This repository hosts the class projects for CPH 200B offered at UC Berkeley and
   </ul>
 
 </details>
+
+#### [Project 2: Machine Learning-based Causal Effect Estimation (30 points)](https://bcourses.berkeley.edu/courses/1531248/assignments/8722901)
+
+<details>
+  <summary><b>Tasks and Grading</b> (click to expand)</summary>
+  &nbsp;
+  <ul>
+    <li>Task 2.1: Hypothesis Testing and Confounding [8 pts]</a></li>
+    &nbsp;
+    <li>Task 2.2: Estimating Average Treatment Effects [8 pts]</li> 
+    &nbsp;
+    <li>Task 2.3: Estimating Heterogeneous Treatment Effects using Deep Counterfactual Regression [14 pts]</li> 
+  </ul>
+
+</details>
